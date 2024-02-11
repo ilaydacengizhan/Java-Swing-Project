@@ -1,0 +1,1 @@
+OurJava Swing project, titled "Interactive Ticket Management System," aims to provide an efficient and user-friendly platform for managing customer information, ticket details, and payment transactions. The system incorporates three main frames- Customer Information, Ticket Information, and Payment Information- each facilitating specific functionalities.
